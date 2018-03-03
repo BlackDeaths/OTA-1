@@ -1,7 +1,7 @@
 test<?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <oneplus3>
+        <angler>
             <Filename>RR-O-v6.0.0-20180301-angler-Official</Filename>
             <RomUrl
                 id="rom"
@@ -19,6 +19,6 @@ test<?xml version="1.0" encoding="UTF-8"?>
                 id="donation"
                 title=""
                 description="">https://www.paypal.me/BlackjubelROMS</PaypalUrl>
-        </oneplus3>
+        </angler>
     </Stable>
 </SlimOTA>
