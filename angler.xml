@@ -1,0 +1,24 @@
+test<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <oneplus3>
+            <Filename>RR-O-v6.0.0-20180301-angler-Official</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://androidfilehost.com/?fid=962187416754464439</RomUrl>
+            <GAppsUrl
+                id="gapps"
+                title=""
+                description="">https://sourceforge.net/projects/unofficial-opengapps-8-1/files/arm64/</GAppsUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description="">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+            <PaypalUrl
+                id="donation"
+                title=""
+                description="">https://www.paypal.me/BlackjubelROMS</PaypalUrl>
+        </oneplus3>
+    </Stable>
+</SlimOTA>
