@@ -2,23 +2,23 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <angler>
-            <Filename>RR-O-v6.0.0-20180301-angler-Official</Filename>
+            <Filename>RR-O-v6.0.0-20180306-angler-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="">https://androidfilehost.com/?fid=962187416754464439</RomUrl>
-            <GAppsUrl
-                id="gapps"
-                title="Gapps"
-                description="">https://sourceforge.net/projects/unofficial-opengapps-8-1/files/arm64/</GAppsUrl>
+                description="">https://www.androidfilehost.com/?w=files&flid=251801</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
-            <PaypalUrl
-                id="donation"
-                title="Donation"
-                description="">https://www.paypal.me/BlackjubelROMS</PaypalUrl>
+             <VendorUrl
+            	id="vendor_image"
+            	title="Vendor Image"
+            	description="Download latest vendor image">http://kantjer.com/wp-content/uploads/2018/03/vendor-angler-OPM3.171019.016.img</VendorUrl>           
         </angler>
     </Stable>
 </SlimOTA>
