@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <angler>
-            <Filename>RR-O-v6.0.0-20180306-angler-Official</Filename>
+            <Filename>RR-O-v6.0.0-20180311-angler-Official</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="">https://www.androidfilehost.com/?w=files&flid=251801</RomUrl>
+                description="">https://androidfilehost.com/?fid=818070582850499725</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -21,4 +21,21 @@
             	description="Download latest vendor image">http://kantjer.com/wp-content/uploads/2018/03/vendor-angler-OPM3.171019.016.img</VendorUrl>           
         </angler>
     </Stable>
+    <Beta>
+	  <klte>
+	       <Filename>RR-O-v6.0.0-20180312-klte-Official</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="">https://androidfilehost.com/?fid=962187416754467604</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+		 </klte>		
+	 </Beta>			
 </SlimOTA>
