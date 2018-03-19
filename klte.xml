@@ -21,4 +21,25 @@
   description="View Changelogs">https://gist.github.com/fessmm/a83fa3e814250493b700833d9e971ec1</ChangelogUrl>
 </klte>
 </Stable>
+ <Stable>
+<klte>
+<Filename>RR-O-v6.0.0-20180319-klte-Official.zip</Filename>
+<LatestBuildUrl
+  id="latestbuild"
+  title="Latest Build"
+  description="Download Latest Build">https://www.androidfilehost.com/?fid=673956719939828906</LatestBuildUrl>
+<BuildUrl
+  id="build"
+  title="Build"
+  description="Download a Build">http://downloads.resurrectionremix.com/klte/</BuildUrl>
+<GAppsUrl
+  id="GApps"
+  title="Open GApps"
+  description="Download Open GApps">https://opengapps.org</GAppsUrl>
+<ChangelogUrl
+  id="changelog"
+  title="Changelog"
+  description="View Changelogs">https://gist.github.com/fessmm/a83fa3e814250493b700833d9e971ec1</ChangelogUrl>
+</klte>
+</Stable>
 </SlimOTA>
