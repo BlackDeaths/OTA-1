@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <klte>
-<Filename>RR-O-v6.0.0-20180318-klte-Official.zip</Filename>
+<Filename>RR-O-v6.0.0-20180321-klte-Official.zip</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">http://downloads.resurrectionremix.com/klte/RR-O-v6.0.0-20180318-klte-Official.zip</LatestBuildUrl>
+  description="Download Latest Build">http://downloads.resurrectionremix.com/klte/RR-O-v6.0.0-20180321-klte-Official.zip</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
@@ -20,8 +20,6 @@
   title="Changelog"
   description="View Changelogs">https://gist.github.com/fessmm/a83fa3e814250493b700833d9e971ec1</ChangelogUrl>
 </klte>
-</Stable>
- <Stable>
 <klte>
 <Filename>RR-O-v6.0.0-20180319-klte-Official.zip</Filename>
 <LatestBuildUrl
